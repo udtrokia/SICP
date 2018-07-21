@@ -4,5 +4,7 @@
       0
       y))
 
-(display (test 1 2))
+(display (p))
+;; 无限展开
+;; (display (test 0 (p)))
 (newline)
